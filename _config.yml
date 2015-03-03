@@ -11,8 +11,8 @@ relative_permalinks: true
 # Setup
 title:               Adam Worley
 tagline:             'Computer Scientist'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+description:         'Please use this navigation to find my pages, I hope to include more detailed posts and other information here in the future.'
+url:                 http://mada360.me
 baseurl:             /
 paginate:            5
 
