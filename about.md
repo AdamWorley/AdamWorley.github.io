@@ -7,12 +7,7 @@ Hello, my name is Adam Worley,
 
 I'm currently studying Computer Science (Games) at [the university of Brighton.](https://google.com).
 
-There are currently two themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
+Learn more and contribute on [GitHub](https://github.com/mada360).
 
 ## Setup
 
