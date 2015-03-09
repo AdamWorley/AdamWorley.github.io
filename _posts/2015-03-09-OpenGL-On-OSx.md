@@ -2,7 +2,7 @@
 layout: post
 category : Projects
 tagline: "| Hello World "
-tags : [OSx, mac, OpenGL, C++, uni]
+tags : [OSx, Mac, OpenGL, C++, Uni]
 ---
 
 {% include JB/setup %}
