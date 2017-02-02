@@ -21,7 +21,7 @@ I bought my aworley.uk domain for &euro;9.60 (&pound;8.15) and so all together f
 
 #### Running MIAB set-up
 
-The tutorial video on the website is actually very thorough and useful unfortunately I had an issue with a `packaging not found` error. --Long story short and a lot of wasted time follow [the steps here](https://discourse.mailinabox.email/t/unable-to-run-mailinabox-command/1840/14?u=mada360) and re-run the installation and all will work just fine.-- Update [v0.21c](https://github.com/mail-in-a-box/mailinabox/blob/v0.21c/CHANGELOG.md#changelog) fixes the packaging error.
+The tutorial video on the website is actually very thorough and useful unfortunately I had an issue with a `packaging not found` error. ~~Long story short and a lot of wasted time follow [the steps here](https://discourse.mailinabox.email/t/unable-to-run-mailinabox-command/1840/14?u=mada360) and re-run the installation and all will work just fine.~~ Update [v0.21c](https://github.com/mail-in-a-box/mailinabox/blob/v0.21c/CHANGELOG.md#changelog) fixes the packaging error.
 
 
 
