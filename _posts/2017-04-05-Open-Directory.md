@@ -2,16 +2,16 @@
 layout: post
 category : Personal
 tagline: "| Open file browser from terminal current directory"
-tags : [Personal, ZSH, Open]
+tags : [Personal, ZSH, Open, xdg-open, Linux, Windows, OsX]
 ---
 
 {% include JB/setup %}
 
-# Opening the current working directory Mac & Windows
+#### Opening the current working directory Mac & Windows
 
 To open the current directory of the terminal in Mac or Windows is as simple as typing `open .`, essentially open here, nice and simple.
 
-# For Linux
+#### For Linux
 
 Things are a little less straight forward, due to the plethora of various desktop environments and file managers things can't be as 
 simple as the above, you'd instead need to specify your chosen file manager and well.... that's effort, especially if you work over various linux environments.
